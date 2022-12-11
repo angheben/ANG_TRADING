@@ -1,3 +1,12 @@
 from django.db import models
 
-# Create your models here.
+
+def Employees():
+    pass
+
+
+def MenuBar():
+    pass
+
+def Contact():
+    pass
