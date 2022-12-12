@@ -8,5 +8,10 @@ def Employees():
 def MenuBar():
     pass
 
+
 def Contact():
+    pass
+
+
+def Map():
     pass
