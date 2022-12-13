@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ead39097-981c-4e2b-aa5c-f4379f09ee15" name="Changes" comment="Models created">
-      <change beforePath="$PROJECT_DIR$/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/models.py" afterDir="false" />
+    <list default="true" id="ead39097-981c-4e2b-aa5c-f4379f09ee15" name="Changes" comment="Map model created">
+      <change afterPath="$PROJECT_DIR$/core/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/templates/features.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/templates/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/templates/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/templates/pricing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/templates/testimonial.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -31,13 +40,14 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/One Drive/One Drive ANG/OneDrive - ANG/Arquivos Vitor/curso_de_programacao/conquiste_sua_vaga/ANG_TRADING/core/static&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/One Drive/One Drive ANG/OneDrive - ANG/Arquivos Vitor/curso_de_programacao/conquiste_sua_vaga/ANG_TRADING/core/static"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\One Drive\One Drive ANG\OneDrive - ANG\Arquivos Vitor\curso_de_programacao\conquiste_sua_vaga\ANG_TRADING\core\static" />
@@ -59,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670726828403</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Map model created">
+      <created>1670807378106</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670807378106</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,6 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Models created" />
-    <option name="LAST_COMMIT_MESSAGE" value="Models created" />
+    <MESSAGE value="Map model created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Map model created" />
   </component>
 </project>
